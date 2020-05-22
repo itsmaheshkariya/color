@@ -2,7 +2,7 @@
 # color
 ### color Formatting in console / terminal
 
-## **Installation in Deno** in Ts
+## **Installation in Deno**
 ```ts
 import clc from 'https://deno.land/x/color/index.ts'
 //import clc from 'https://deno.land/x/color/index.js' // For JS
